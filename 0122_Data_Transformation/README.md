@@ -5,7 +5,8 @@
 | Data  | Used Cars Dataset              |
 | Method| Encoding, Scaling, PCA         |
 
-#Timetable
+# Timetable
+
 1. Merge : cars.csv와 brand.csv
 2. Encoding
 3. Missing values & Outlier
