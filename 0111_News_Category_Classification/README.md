@@ -8,9 +8,19 @@
 
 <br/>
 
+# Modeling Score
+
 | Category | Precision | Recall | F1-Score | Support |
 |----------|-----------|--------|----------|---------|
 | IT/과학   | 0.63      | 0.66   | 0.64     | 41      |
 | 경제      | 0.74      | 0.61   | 0.67     | 51      |
 | 사회      | 0.52      | 0.44   | 0.47     | 39      |
 | 생활/문화  | 0.38      | 0.53   | 0.44     | 32      |
+
+<br/>
+
+# Timetable
+
+1. News Crawling
+2. Data Processing
+3. Modeling
