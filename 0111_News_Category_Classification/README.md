@@ -1,4 +1,4 @@
-Project : Naver News Category Classification
+# Project : Naver News Category Classification
 
 | Component    | Tool/Library                      |
 |--------------|-----------------------------------|
@@ -6,6 +6,7 @@ Project : Naver News Category Classification
 | Tokenizer    | Mecab                             |
 | Model        | sklearn.naive_bayes.MultinomialNB |
 
+<br/>
 
 | Category | Precision | Recall | F1-Score | Support |
 |----------|-----------|--------|----------|---------|
