@@ -6,7 +6,6 @@
 | Analysis Method | Correlation                |
 
 # Timetable
----
 1. Data Cleaning
 2. Correlation
 3. Retrospoective
